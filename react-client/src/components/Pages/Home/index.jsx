@@ -7,7 +7,7 @@ const Home = () => {
     <>
       <Header>
         <p>
-          The <strong>m</strong>assively <strong>o</strong>ganized <strong>f</strong>un <strong>o</strong>nline gaming experience!
+          The most luxurious and affordable BnB on the market!
         </p>
       </Header>
  
@@ -15,8 +15,7 @@ const Home = () => {
         <hr/>
  
         <header>
-          <h2>MOFO Games are simple games <strong>HYPEFIED</strong> with the integration of support for massive multiplayer integration!</h2>
-          <p>This sh*t's going to be lit AF!</p>
+          <p><strong>We hope you enjoy your stay!</strong></p>
         </header>
       </Container>
     </>
